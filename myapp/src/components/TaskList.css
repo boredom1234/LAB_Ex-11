@@ -1,0 +1,14 @@
+/* TaskList.css */
+.fade-out {
+    animation: fadeOut 5s ease;
+  }
+  
+  @keyframes fadeOut {
+    0% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+  
